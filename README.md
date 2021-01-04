@@ -13,7 +13,7 @@ En esta práctica, se va a hacer uso de esos datos para calcular el riesgo de qu
 Acceso a los datos [en este link.](https://www.kaggle.com/usgs/earthquake-database)<br> 
 Data set que contiene día, hora, lugar, profundidad, magnitud y fuente de todos los terremotos con magnitud mayor o igual a 5.5 desde 1965 hasta 2016. <br>
 
-# Atributos 
+### Atributos 
 Fecha (Date): la fecha de cada evento viene definida como mm/dd/aaaa <br>
 Hora (Time): la hora viene definida como hh:mm:ss. <br>
 Lugar (Latitude y Longitude): el lugar viene definido en dos columnas, con latitud y longitud.<br>
@@ -22,7 +22,7 @@ Profundidad (Depht): es donde la energía se libera en un terremoto. <br>
 Magnitud (Magnitude): Medición del terremoto. <br>
 Tipo de Magnitud (Magnitude Type): Las diferentes escalas para medir un terremoto, como Escala de Richter (ML), entre otras. <br>
 
-# Observaciones
+### Observaciones
 Para el cálculo del riesgo solo tomaremos el dato de la magnitud, con el tipo de magnitud MW, ya que es el tipo con mayores registros, y también que es una escala que no se satura al evaluar sismos de gran intensidad (mega terremotos).
 
 
