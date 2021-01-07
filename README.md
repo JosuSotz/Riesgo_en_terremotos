@@ -8,7 +8,7 @@ Estos eventos han sido presentes desde que existe la Tierra, aunque el estudio d
 Con lo desarrollado que es el internet ahora, y con el alcance a datos que ofrece la comunidad, El Centro Nacional de Información de Terremotos (NEIC con sus siglas en Inglés) puso a su disposición un data set de terremotos que han ocurrido en todo el mundo durante 1965 hasta el 2016 con una magnitud mayor o igual a 5.5 para el uso de investigación científica. <br>
 
 ## Objetivo
-En esta práctica, se va a hacer uso de esos datos para calcular el riesgo respecto de la magnitud de los temblores mayores a 5.5 en un periodo de 2 años.
+En esta práctica, se va a hacer uso de esos datos para calcular el riesgo de ocurrecnia de temblores mayores a 6.5 en un periodo de 2 años en todo el mundo.
 
 ## Datos: Significant Earthquakes, 1965-2016
 Acceso a los datos [en este link.](https://www.kaggle.com/usgs/earthquake-database)<br> 
