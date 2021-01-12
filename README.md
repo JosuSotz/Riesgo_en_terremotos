@@ -38,3 +38,7 @@ Durante la observación de los datos, se pudo observar que los registros de magn
 * Para la exclusión de datos del 1965 hasta el 1983 eliminamos desde la línea 2 hasta la línea 6865 de nuestro archivo de datos `earthquakes.dat` y así quedarnos con un total de 16545 registros.
 * Modificación de formato de fecha en los registros 648 y 13784 (contando que ya excluí los datos de 1965 a 1983)
 * Para que el código que se creó funcionara, agregué un registro al final de los datos que es el siguiente: `01/01/2017   5.0   MW` 
+
+### Desarrollo del codigo
+
+
