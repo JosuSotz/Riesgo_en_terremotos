@@ -1,5 +1,5 @@
 # Cálculo del riesgo en terremotos
-## Proyecto final de la materia Peligros y Riesgos
+## Práctica 1 de la materia Peligros y Riesgos
 ## Josué Francisco Soto Cortez 
 ##### josusotz@gmail.com
 ### ENES, Unidad Morelia, UNAM
