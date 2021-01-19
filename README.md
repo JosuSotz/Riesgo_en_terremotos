@@ -79,5 +79,5 @@ Con la tabla podemos ver que tanto en la tendencia lineal, y en la tendencia cub
 
 OMS. (s.f.). who.int. Obtenido de https://www.who.int/hac/techguidance/ems/earthquakes/es/ <br>
 Geociencias UC. (s.f.). Fallas de Chile. Obtenido de https://fallasdechile.sitios.ing.uc.cl/que-es-un-sismo-mw/ <br>
-Ugalde, A. (2010). Terremotos. Cuando la tierra tiembla. Madrid: Los libros de la Catarata.
+Ugalde, A. (2010). Terremotos. Cuando la tierra tiembla. Madrid: Los libros de la Catarata. <br>
 Gibbs, F. (5 de Junio de 2013). The Programming Historian. Obtenido de https://programminghistorian.org/es/lecciones/instalar-modulos-python-pip
