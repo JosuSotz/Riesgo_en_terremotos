@@ -45,7 +45,7 @@ También se va a calcular el riesgo que tuvieron desde los años 1985 hasta el a
 Se comenzó con el análisis de los datos, dado que son datos públicos y que no conocemos, lo primero era ver que los datos estuvieran completos y localizar datos que no fueran uniformes para ver si podíamos modificarlos, o excluirlos.
 
 ### Observaciones para la manipulación de datos.
-Para el cálculo del riesgo solo tomaremos el dato de la magnitud, con el tipo de magnitud MW, ya que es el tipo con mayores registros. Es una escala que no se satura al evaluar sismos de gran intensidad (mega terremotos) y es la que se ha desarrollado más recientemente, que se considera una aproximación cuantitativamente con una base física más fuerte que la Escala Richter. <br>
+Para el cálculo del riesgo solo tomaremos el dato de la magnitud, con el tipo de magnitud MW (escala sismologica de magnitud del momento), ya que es el tipo con mayores registros. Es una escala que no se satura al evaluar sismos de gran intensidad (mega terremotos) y es la que se ha desarrollado más recientemente, que se considera una aproximación cuantitativamente con una base física más fuerte que la Escala Richter. <br>
 Durante la observación de los datos, se pudo observar que los registros de magnitud MW son muy variados desde 1965 hasta 1983, y a partir de 1984 empiezan a ser datos con más uniformidad, así que excluí los registros del año 1965 hasta 1983, para que en la evaluación de la tendencia no existan valores atípicos y que la tendencia sea más precisa. <br>
 
 #### Modificación de datos
@@ -66,9 +66,14 @@ Para el segundo objetivo se hace uso de un ciclo para ir evaluando el riesgo de 
 ### Resultados
 Para el primer objetivo, que realmente es sencillo, se aplicó la fórmula mencionada sobre el calculo del riesgo y se pudo obtener que el riesgo de ocurrencia de un sismo mayor o igual a 6.5 en un periodo de 10 años (2017-2027) es `0.674739978287348`. <br>
 Para el segundo objetivo se obtuvo la siguente grafica: <br>
+<br>
+![alt text](riesgo.png "Riesgos de ocurrencia de sismos del 1984 al 2017")
+<br>
 Donde podemos ver como se va comportando el riesgo a través de los años, y se puede observar la tendencia lineal y cubica de estos datos. <br>
 
 ### Conclusiones 
+Con los resultados que se obtuvieron, puedo notar que esta información puede ser valiosa para toda la sociedad. Puede ayudar a una correcta toma de decisciones en cuanto a planes de emergencia en los proximos años ante un evento tan fuerte como lo son los sismos mayores de 6.5 MW. <br>
+Con la tabla podemos ver que tanto en la tendencia lineal, y en la tendencia cubica, va aumentando cada vez mas este riesgo. Analizando la tendencia lineal, se puede notar que poco a poco va incrementando, mientras que la tendencia cúbica muestra como ha sido el comportamiento mas preciso del riesgo, y se ha notado un incremento considerable en los ultimos 10 años. Esto pone a pensar en que en cualquiera de las 2 tendencias, el riesgo de ocurrencia cada vez es mayor y cada vez tenemos que estar mejor preparados para estos eventos, y que la resilencia ante un sismo, sea lo menor posible.
 
 
 
