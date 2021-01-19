@@ -67,7 +67,7 @@ Para el segundo objetivo se hace uso de un ciclo para ir evaluando el riesgo de 
 Para el primer objetivo, que realmente es sencillo, se aplicó la fórmula mencionada sobre el cálculo del riesgo y se pudo obtener que el riesgo de ocurrencia de un sismo mayor o igual a 6.5 en un periodo de 10 años (2017-2027) es `0.674739978287348`. <br>
 Para el segundo objetivo se obtuvo la siguiente gráfica: <br>
 <br>
-![alt text](riesgo.png "Riesgos de ocurrencia de sismos del 1984 al 2017")
+![alt text](riesgo.png "Riesgos de ocurrencia de sismos del 1985 al 2017")
 <br>
 Donde podemos ver cómo se va comportando el riesgo a través de los años, y se puede observar la tendencia lineal y cubica de estos datos. <br>
 
