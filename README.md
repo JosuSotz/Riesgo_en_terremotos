@@ -31,7 +31,7 @@ Data set que contiene día, hora, lugar, profundidad, magnitud y fuente de todos
 - Fecha (Date): la fecha de cada evento viene definida como mm/dd/aaaa <br>
 - Hora (Time): la hora viene definida como hh:mm:ss. <br>
 - Lugar (Latitude y Longitude): el lugar viene definido en dos columnas, con latitud y longitud.<br>
-- Tipo (Type): Los terremotos mayormente son originados por las placas tectónicas, pero también pueden ser originados por explosiones nucleares o algún otro evento de una gran -magnitud. <br>
+- Tipo (Type): Los terremotos mayormente son originados por las placas tectónicas, pero también pueden ser originados por explosiones nucleares o algún otro evento de una gran magnitud. <br>
 - Profundidad (Depht): es donde la energía se libera en un terremoto. <br>
 - Magnitud (Magnitude): Medición del terremoto. <br>
 - Tipo de Magnitud (Magnitude Type): Las diferentes escalas para medir un terremoto, como Escala de Richter (ML), entre otras. <br>
